@@ -28,7 +28,7 @@ The Camera Calibration API is a wrapper around the opencv's camera calibration f
 * `pandas`
 
 #### Example:
-Examples to use the Camera_Calibration_API() for calibration using chessboard, symmetric circular grids and asymmetric circular grids can be found in the [examples](./examples/example_notebooks) folder
+Examples to use the Camera_Calibration_API() for calibration using chessboard, symmetric circular grids and asymmetric circular grids can be found in the [example_notebooks](./examples/example_notebooks) folder
 
 #### Features:
 * Supports all the 3 calibration patterns supported by opencv : **Chessboards**, **Asymmetric circular grids** and **Symmetric circular grids.**
