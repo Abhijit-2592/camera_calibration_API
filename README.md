@@ -1,13 +1,12 @@
-# image_proc
-**A repository containing various source codes for conventional image processing**
+# camera_calibration_API
+
+**A repository containing the camera calibration API**
 
 ### Repository Overview:
 
 [camera_calibration.py](./camera_calibration.py):contains an API which tries to minic the MATLAB's camera calibration app functionality. This API is a thin wrapper around the opencv's camera calibration functionalities.
 
-[utils.py](./utils.py): contains various utility scripts
-
-[examples](./examples): A diretory containing various examples
+[examples](./examples): A directory containing various examples
 
 
 ### Camera_Calibration_API:
